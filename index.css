@@ -1,0 +1,218 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family:"Helvetica Neue",Helvetica,Arial,"Microsoft YaHei UI","Microsoft YaHei",sans-serif;
+}
+
+.body {
+    background: url("./image/bg.png") no-repeat #7fb4f2;
+    /*background-image: url("./image/bg.png");*/
+    background-size: cover;
+    /*background-repeat: no-repeat;*/
+}
+
+.wrapper {
+    margin: 0 500px;
+    color:white;
+    width: auto;
+    float: left;
+}
+
+.font-cn {
+    font-size: 24px;
+    font-family: "Arial";
+    padding-top: 90px;
+}
+
+.font-en{
+    font-size: 14px;
+    font-family: "Arial";
+    padding-top: 2px;
+}
+
+.font-logo{
+    letter-spacing: 20px;
+    font-size: 74px;
+    font-family: "Arial Black";
+    margin-top: 7%;
+}
+
+.icon{
+    width: 20px;
+    height: 15px;
+    margin-right: 40px;
+}
+
+
+.font-slogn{
+    font-size: 13px;
+    padding-top: 270px;
+    letter-spacing: 4px;
+}
+
+.line{
+    padding-top: 240px;
+}
+
+.form-login{
+    border: 10px;
+    color: #fff;
+    align-content:center;
+    right: 0px;
+    padding-top: 48px;
+    font-size: 12px;
+
+
+}
+
+.form-login > input {
+    margin-bottom: 10px;
+    border-radius: 4px;
+    padding-left: 12px;
+    font-weight: bold;
+}
+
+
+.account{
+    border:none;
+    width: 283px;
+    height: 40px;
+    color: #333;
+}
+
+
+
+.password{
+    border:none;
+    width: 283px;
+    height: 40px;
+    color: #333;
+}
+
+.code{
+    border:none;
+    width: 283px;
+    height: 40px;
+    color: #333;
+}
+
+.content-left{
+
+}
+
+
+.content-right{
+    width: auto;
+    margin-right: 500px;
+    padding-top: 300px;
+    float: right;
+
+}
+
+.btn{
+    width: 298px;
+    height: 40px;
+    color: #ffffff;
+    border:none;
+    background-color: #58A5F7;
+    border-radius: 4px;
+    margin-top: 48px;
+}
+
+.btn:hover {
+    background: #418FE3;
+    text-decoration: none;
+}
+
+
+.forget-password{
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+id  > class > tagName, attribute
+2      1       0.5
+
+/*id: <div id="css" class="css"></div> */
+2
+#css {
+
+}
+
+/*class: <div class="css"></div> */
+#css {
+    margin: 0;
+    padding: 0;
+}
+
+/*name: <div></div> */
+div {
+
+}
+
+/*attribute: <div disabled></div> */
+[disabled] {
+
+}
+
+
+
+3
+#css.css {
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
